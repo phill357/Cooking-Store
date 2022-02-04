@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<HTML>
+
+#include a header
+<head>
+<title>Our Team</title>
+</head>
+
+<body style="background-color: white;">
+
+<ul>
+  <li><p style="font-size:24px">Introducing: Chris and Christie</p></li>
+  	<center>
+	<img src="oldcouple.jpeg" style="width:400px;">	
+	</center>
+	<p>This is Chris and Christie. They are a loving couple and co-owners for Christie and Chris's Cooking Cabin! They share the passion towards cooking and have been married tgether for almost 45 years. After growing up in West Lafayette, attending Purdue University, and 
+	having five kids, they continue to share their homemade cookings to the Greater Lafayette community.</p> 
+	
+
+  <li><p style="font-size:24px">Introducing: Charlie</p></li>
+	<center>
+	<img src="son.jpeg" style="width:400px;">	
+	</center>
+	<p>This is Chris and Christie's oldest son, Charlie. He is currently the manager of the restaurant and plans to take over it once his parents retire. His passion for cooking stems from his parents as they all grew up in the kitchen cooking together for the rest of their family. Other than cooking,
+	he enjoys reading, fishing, and teaching cooking classes in the cabin!</p> 
+
+
+  <li><p style="font-size:24px">Introducing: Anna</p></li>
+	<center>
+	<img src="hostess.jpeg" style="width:400px;">	
+	</center>
+	<p>Introducing Anna, who is the server for Christie and Chris's Cabin. She grew up in West Lafayette, Indiana and is currently a communications major at Purdue University! She plans on pursuing broadcasting jouralism post graduation,
+	and settle down in Washington D.C. to follow her dream. She loves to read, write poems, and perform small gigs at events on campus!</p> 
+
+
+ <li><p style="font-size:24px">Introducing: Parker</p></li>
+	<center>
+	<img src="sou-chef.jpeg" style="width:400px;">	
+	</center>
+	<p>Finally, this is Parker! He is the sou-chef of the kitchen and also plans the menu alongside the family. He is from Indianapolis, Indiana and comes from a background of attending a cooking school in Italy. 
+	His skills and love for cooking are reflected in his speciality of the chicken parmesan dish, which is the most popular meal at the restaurant! His bubbly personality is adored by the family and he plans to open his
+	own restaurant one day in downtown Indianapolis.</p> 
+	
+
+</ul>
+
