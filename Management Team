@@ -1,12 +1,10 @@
 <!DOCTYPE HTML>
 <HTML>
-
-#include a header
 <head>
 <title>Our Team</title>
 </head>
 
-<body style="background-color: white;">
+<body style="background-color: olive;">
 
 <ul>
   <li><p style="font-size:24px">Introducing: Chris and Christie</p></li>
@@ -44,3 +42,19 @@
 
 </ul>
 
+<br>
+<br>
+<p>Site Manager: Miyu Sumimoto</p>
+<a href="mailto:msumimot@purdue.edu">Contact Me!</a> 
+<br>
+<p>Last Modified</p>
+<p id="time"></p>
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("time").innerHTML = date;
+</script>
+
+
+</body>
+</html>
