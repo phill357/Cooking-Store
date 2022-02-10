@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Christie and Chris’s Cooking Cabin</title>
+</head>
+
+
+
+<body style="background-color: darkturquoise;">
+
+<h1 style="text-align:center;font-family:Georgia"><b>Christie and Chris’s Cooking Cabin</b></h1>
+
+<hr>
+<h2 style="text-align:center"><i>Our Products</i></h2>
+<hr>
+
+<ul>
+  <li><p style="font-size:24px">Our Products</p></li>
+		
+	<p>We offer a variety of Pampered Chef products that are available to purchase on our website in the link below.</p> 
+	<center>
+	<img src="Store.jpg" style="width:500px;">
+	<br>
+	<a href="https://www.pamperedchef.com/">Click Here to view the Pampered Chef Catalogue</a>
+	</center>
+
+  <li><p style="font-size:24px">Cooking Classes</p></li>
+	<p>We offer a variety of cooking classes for the very beginner all the way up to the advanced chef. Classes generally last 6-10 weeks and meet once per week.</p>
+	<br>
+	<a href="Brochure.pdf"">Our Brochure</a>
+
+
+
+  <li><p style="font-size:24px">Take-Home Meal Kits</p></li>
+	<p> We sell the following take home meal kits. Includes recipe and pre-portioned required ingredients. Serves 2. Costs $30 per kit.</p>
+	
+	<ol>
+	  <li>Chicken Parmesan</li>
+	  <li>Baked Ziti (V)</li>
+	  <li>Beef Tacos</li>
+	  <li>Salmon and Rice</li>
+	  <li>Vegetable Soup (V)</li>
+	  <li>Weinerschnitzel</li>
+	</ol> 
+	<p style="color:green">(V) indicates that the meal is Vegetarian.</p>
+
+
+
+ <li><p style="font-size:24px">Cooking Utensils</p></li>
+	<p> We sell the following cooking utensils that very in the prices shown below.</p>
+	
+	<ol>
+	  <li>Spatula - $3</li>
+	  <li>Spoon - $1.50</li>
+	  <li>Ladel - $2</li>
+	  <li>Tongs(2 piece set) - $5</li>
+	  <li>Whisk - $2</li>
+	  <li>Skimmer - $1.50</li>
+    <li>Turner - $3</li>
+	</ol> 
+
+</ul>
+
+
+<br>
+<br>
+<p>Site Manager: Caroline Machala</p>
+<a href="mailto:cmachala@purdue.edu">Contact Me!</a> 
+<br>
+<p>Last Modified</p>
+<p id="time"></p>
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("time").innerHTML = date;
+</script>
+
+
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
